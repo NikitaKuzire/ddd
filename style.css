@@ -127,29 +127,42 @@ footer {
     position: absolute;
     top: 90px;
     right: 50px;
-
+height: 80px;
+width: 80px;
 }
 .AAA {
     top: 100px;
       right: 500px;
 opacity: 0.5;
+height: 40px;
+width: 40px;
 }
 .AAA:hover {
     top: 100px;
       right: 500px;
 opacity: 1;
+height: 40px;
+width: 40px;
 }
 .address img{
 opacity: 0;
+height: 40px;
+width: 40px;
 }
 .address img:hover{
 opacity: 1;
+height: 60px;
+width: 60px;
 }
 .tel img{
 opacity: 0;
+height: 40px;
+width: 40px;
 }
 .tel img:hover{
 opacity: 1;
+height: 60px;
+width: 60px;
 }
 .post:hover {
     right: 10px;
